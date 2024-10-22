@@ -1,0 +1,86 @@
+h1, h2{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: #ffc500;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th{
+    padding: 30px;
+    font-size: 25px;
+    background-color: #00ff7b;
+}
+
+table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+   width: 10%; 
+}
+
+.horas{
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+
+.PRG{
+    background-color: #adff2f;
+    
+}
+
+.LMSGI{
+    background-color: purple;
+}
+
+.SI{
+    background-color: #fe00ff;
+    
+}
+
+#BD1{
+    background-color: orange;
+}
+
+#BD2{
+    background-color: yellow;
+}
+
+#descans{
+    font-size: 20px;
+    padding: 15px;
+}
+
+#TUT{
+    background-color: green;
+}
+
+.AN{
+    background-color: #ae3939;
+}
+
+#DIW{
+    background-color: #00ff7b;
+}
+
+.IPOI{
+    background-color: aqua;
+}
